@@ -1,0 +1,537 @@
+City,Year,SLR
+Abidjan,2030,0.1064
+Abidjan,2050,0.2470
+Abidjan,2070,0.4205
+Abidjan,2100,0.7699
+Accra,2030,0.1087
+Accra,2050,0.2511
+Accra,2070,0.4272
+Accra,2100,0.7802
+Adelaide,2030,0.0962
+Adelaide,2050,0.2309
+Adelaide,2070,0.4051
+Adelaide,2100,0.7677
+Alexandria,2030,0.0912
+Alexandria,2050,0.2189
+Alexandria,2070,0.3771
+Alexandria,2100,0.6951
+Algiers,2030,0.0931
+Algiers,2050,0.2208
+Algiers,2070,0.3734
+Algiers,2100,0.6793
+Amsterdam,2030,0.0990
+Amsterdam,2050,0.2284
+Amsterdam,2070,0.3900
+Amsterdam,2100,0.6622
+Athens,2030,0.0864
+Athens,2050,0.2089
+Athens,2070,0.3564
+Athens,2100,0.6518
+Auckland,2030,0.1034
+Auckland,2050,0.2534
+Auckland,2070,0.4189
+Auckland,2100,0.8245
+Baltimore,2030,0.1473
+Baltimore,2050,0.3193
+Baltimore,2070,0.5194
+Baltimore,2100,0.8682
+Banghazi,2030,0.0962
+Banghazi,2050,0.2236
+Banghazi,2070,0.3833
+Banghazi,2100,0.6976
+Bangkok,2030,0.0913
+Bangkok,2050,0.2318
+Bangkok,2070,0.4093
+Bangkok,2100,0.7844
+Barcelona,2030,0.0967
+Barcelona,2050,0.2230
+Barcelona,2070,0.3810
+Barcelona,2100,0.6707
+Barranquilla,2030,0.1098
+Barranquilla,2050,0.2463
+Barranquilla,2070,0.4179
+Barranquilla,2100,0.7525
+Beirut,2030,0.0899
+Beirut,2050,0.2201
+Beirut,2070,0.3768
+Beirut,2100,0.6851
+Belem,2030,0.1016
+Belem,2050,0.2348
+Belem,2070,0.4064
+Belem,2100,0.7462
+Boston,2030,0.1412
+Boston,2050,0.3131
+Boston,2070,0.5072
+Boston,2100,0.8409
+Brisbane,2030,0.1051
+Brisbane,2050,0.2459
+Brisbane,2070,0.4341
+Brisbane,2100,0.8164
+Buenos Aires,2030,0.0791
+Buenos Aires,2050,0.1954
+Buenos Aires,2070,0.3494
+Buenos Aires,2100,0.6832
+Cape Town,2030,0.1039
+Cape Town,2050,0.2399
+Cape Town,2070,0.4161
+Cape Town,2100,0.7811
+Casablanca,2030,0.0971
+Casablanca,2050,0.2262
+Casablanca,2070,0.3825
+Casablanca,2100,0.6755
+Chennai,2030,0.0921
+Chennai,2050,0.2210
+Chennai,2070,0.3939
+Chennai,2100,0.7603
+Chittagong,2030,0.0879
+Chittagong,2050,0.2185
+Chittagong,2070,0.3887
+Chittagong,2100,0.7339
+Cochin,2030,0.0944
+Cochin,2050,0.2267
+Cochin,2070,0.4054
+Cochin,2100,0.7779
+Conakry,2030,0.1012
+Conakry,2050,0.2353
+Conakry,2070,0.4053
+Conakry,2100,0.7394
+Copenhagen,2030,0.0877
+Copenhagen,2050,0.1994
+Copenhagen,2070,0.3510
+Copenhagen,2100,0.6001
+Dakar,2030,0.1077
+Dakar,2050,0.2398
+Dakar,2070,0.4171
+Dakar,2100,0.7546
+Dalian,2030,0.0920
+Dalian,2050,0.2148
+Dalian,2070,0.3923
+Dalian,2100,0.7433
+Dar-es-Salam,2030,0.1047
+Dar-es-Salam,2050,0.2419
+Dar-es-Salam,2070,0.4246
+Dar-es-Salam,2100,0.7885
+Davao,2030,0.0975
+Davao,2050,0.2390
+Davao,2070,0.4244
+Davao,2100,0.8076
+Dhaka,2030,0.0879
+Dhaka,2050,0.2185
+Dhaka,2070,0.3887
+Dhaka,2100,0.7339
+Douala,2030,0.1080
+Douala,2050,0.2496
+Douala,2070,0.4263
+Douala,2100,0.7753
+Dubai,2030,0.0941
+Dubai,2050,0.2164
+Dubai,2070,0.3958
+Dubai,2100,0.7329
+Dublin,2030,0.0868
+Dublin,2050,0.2053
+Dublin,2070,0.3443
+Dublin,2100,0.5894
+Durban,2030,0.1038
+Durban,2050,0.2503
+Durban,2070,0.4320
+Durban,2100,0.8044
+Fortaleza,2030,0.1030
+Fortaleza,2050,0.2412
+Fortaleza,2070,0.4156
+Fortaleza,2100,0.7674
+Fukuoka-Kitakyushu,2030,0.0919
+Fukuoka-Kitakyushu,2050,0.2281
+Fukuoka-Kitakyushu,2070,0.4105
+Fukuoka-Kitakyushu,2100,0.7761
+Fuzhou,2030,0.0980
+Fuzhou,2050,0.2228
+Fuzhou,2070,0.3912
+Fuzhou,2100,0.7531
+Glasgow,2030,0.0455
+Glasgow,2050,0.1334
+Glasgow,2070,0.2334
+Glasgow,2100,0.4117
+Grande Vitoria,2030,0.0965
+Grande Vitoria,2050,0.2318
+Grande Vitoria,2070,0.4109
+Grande Vitoria,2100,0.7806
+Guangzhou Guangdong,2030,0.0962
+Guangzhou Guangdong,2050,0.2386
+Guangzhou Guangdong,2070,0.4186
+Guangzhou Guangdong,2100,0.7881
+Guayaquil,2030,0.0927
+Guayaquil,2050,0.2214
+Guayaquil,2070,0.3925
+Guayaquil,2100,0.7643
+Hai Phong,2030,0.0907
+Hai Phong,2050,0.2302
+Hai Phong,2070,0.4068
+Hai Phong,2100,0.7680
+Hamburg,2030,0.1326
+Hamburg,2050,0.2849
+Hamburg,2070,0.4715
+Hamburg,2100,0.7830
+Hangzhou,2030,0.0855
+Hangzhou,2050,0.2181
+Hangzhou,2070,0.3964
+Hangzhou,2100,0.7560
+Havana,2030,0.1063
+Havana,2050,0.2396
+Havana,2070,0.4041
+Havana,2100,0.7103
+Helsinki,2030,0.0832
+Helsinki,2050,0.1781
+Helsinki,2070,0.3151
+Helsinki,2100,0.5257
+Hiroshima,2030,0.0943
+Hiroshima,2050,0.2308
+Hiroshima,2070,0.4162
+Hiroshima,2100,0.7857
+Ho Chi Minh City,2030,0.0947
+Ho Chi Minh City,2050,0.2338
+Ho Chi Minh City,2070,0.4149
+Ho Chi Minh City,2100,0.7857
+Hong Kong,2030,0.0978
+Hong Kong,2050,0.2414
+Hong Kong,2070,0.4231
+Hong Kong,2100,0.7928
+Houston,2030,0.1094
+Houston,2050,0.2396
+Houston,2070,0.3960
+Houston,2100,0.6986
+Inchon,2030,0.0850
+Inchon,2050,0.2230
+Inchon,2070,0.3979
+Inchon,2100,0.7568
+Istanbul,2030,0.0774
+Istanbul,2050,0.1915
+Istanbul,2070,0.3287
+Istanbul,2100,0.6052
+Izmir,2030,0.0781
+Izmir,2050,0.1988
+Izmir,2070,0.3444
+Izmir,2100,0.6277
+Jakarta,2030,0.0936
+Jakarta,2050,0.2329
+Jakarta,2070,0.4106
+Jakarta,2100,0.7951
+Jiddah,2030,0.0964
+Jiddah,2050,0.2277
+Jiddah,2070,0.3982
+Jiddah,2100,0.7449
+Karachi,2030,0.0847
+Karachi,2050,0.1937
+Karachi,2070,0.3658
+Karachi,2100,0.6835
+Khulna,2030,0.0838
+Khulna,2050,0.2156
+Khulna,2070,0.3861
+Khulna,2100,0.7303
+Kuala Lumpur,2030,0.0986
+Kuala Lumpur,2050,0.2443
+Kuala Lumpur,2070,0.4296
+Kuala Lumpur,2100,0.8107
+Kuwait City,2030,0.0941
+Kuwait City,2050,0.2164
+Kuwait City,2070,0.3958
+Kuwait City,2100,0.7329
+Lagos,2030,0.1079
+Lagos,2050,0.2479
+Lagos,2070,0.4288
+Lagos,2100,0.7767
+Lima,2030,0.0937
+Lima,2050,0.2240
+Lima,2070,0.3923
+Lima,2100,0.7528
+Lisbon,2030,0.0926
+Lisbon,2050,0.2215
+Lisbon,2070,0.3811
+Lisbon,2100,0.6708
+Lome,2030,0.1069
+Lome,2050,0.2479
+Lome,2070,0.4290
+Lome,2100,0.7839
+London,2030,0.0896
+London,2050,0.2136
+London,2070,0.3552
+London,2100,0.6057
+Los Angeles,2030,0.0619
+Los Angeles,2050,0.1549
+Los Angeles,2070,0.2806
+Los Angeles,2100,0.5257
+Luanda,2030,0.1125
+Luanda,2050,0.2577
+Luanda,2070,0.4424
+Luanda,2100,0.8095
+Maceiro,2030,0.0999
+Maceiro,2050,0.2344
+Maceiro,2070,0.4059
+Maceiro,2100,0.7557
+Manila,2030,0.0930
+Manila,2050,0.2331
+Manila,2070,0.4159
+Manila,2100,0.7893
+Maputo,2030,0.1081
+Maputo,2050,0.2464
+Maputo,2070,0.4307
+Maputo,2100,0.8066
+Maracaibo,2030,0.1070
+Maracaibo,2050,0.2466
+Maracaibo,2070,0.4214
+Maracaibo,2100,0.7625
+Marseille,2030,0.0920
+Marseille,2050,0.2158
+Marseille,2070,0.3682
+Marseille,2100,0.6473
+Melbourne,2030,0.0976
+Melbourne,2050,0.2285
+Melbourne,2070,0.4003
+Melbourne,2100,0.7567
+Miami,2030,0.1062
+Miami,2050,0.2422
+Miami,2070,0.4083
+Miami,2100,0.7153
+Mogadishu,2030,0.1080
+Mogadishu,2050,0.2390
+Mogadishu,2070,0.4261
+Mogadishu,2100,0.7919
+Montevideo,2030,0.0791
+Montevideo,2050,0.1954
+Montevideo,2070,0.3494
+Montevideo,2100,0.6832
+Montreal,2030,0.1262
+Montreal,2050,0.2727
+Montreal,2070,0.4456
+Montreal,2100,0.7525
+Mumbai,2030,0.0899
+Mumbai,2050,0.2002
+Mumbai,2070,0.3828
+Mumbai,2100,0.7199
+Namp'o,2030,0.0905
+Namp'o,2050,0.2156
+Namp'o,2070,0.3831
+Namp'o,2100,0.7331
+Nagoya,2030,0.0984
+Nagoya,2050,0.2313
+Nagoya,2070,0.4022
+Nagoya,2100,0.7772
+Naples,2030,0.0863
+Naples,2050,0.2081
+Naples,2070,0.3499
+Naples,2100,0.6324
+Natal,2030,0.1034
+Natal,2050,0.2418
+Natal,2070,0.4200
+Natal,2100,0.7707
+New Orleans,2030,0.1144
+New Orleans,2050,0.2513
+New Orleans,2070,0.4171
+New Orleans,2100,0.7349
+New York,2030,0.1424
+New York,2050,0.3224
+New York,2070,0.5223
+New York,2100,0.8731
+Ningbo,2030,0.0875
+Ningbo,2050,0.2192
+Ningbo,2070,0.3892
+Ningbo,2100,0.7501
+Odessa,2030,0.0774
+Odessa,2050,0.1915
+Odessa,2070,0.3287
+Odessa,2100,0.6052
+Osaka-Kobe,2030,0.0979
+Osaka-Kobe,2050,0.2413
+Osaka-Kobe,2070,0.4282
+Osaka-Kobe,2100,0.8119
+Palembang,2030,0.0922
+Palembang,2050,0.2346
+Palembang,2070,0.4185
+Palembang,2100,0.7983
+Panama City,2030,0.1093
+Panama City,2050,0.2471
+Panama City,2070,0.4188
+Panama City,2100,0.7518
+Perth,2030,0.0940
+Perth,2050,0.2252
+Perth,2070,0.3891
+Perth,2100,0.7306
+Philadelphia,2030,0.1542
+Philadelphia,2050,0.3331
+Philadelphia,2070,0.5363
+Philadelphia,2100,0.8943
+Port au Prince,2030,0.0970
+Port au Prince,2050,0.2270
+Port au Prince,2070,0.3903
+Port au Prince,2100,0.7166
+Portland,2030,0.0797
+Portland,2050,0.1780
+Portland,2070,0.3039
+Portland,2100,0.5593
+Porto,2030,0.0922
+Porto,2050,0.2198
+Porto,2070,0.3760
+Porto,2100,0.6528
+Porto Alegre,2030,0.0923
+Porto Alegre,2050,0.2178
+Porto Alegre,2070,0.3873
+Porto Alegre,2100,0.7385
+Providence,2030,0.1412
+Providence,2050,0.3131
+Providence,2070,0.5072
+Providence,2100,0.8409
+Pusan,2030,0.0860
+Pusan,2050,0.2269
+Pusan,2070,0.4021
+Pusan,2100,0.7658
+Qingdao,2030,0.0961
+Qingdao,2050,0.2187
+Qingdao,2070,0.3855
+Qingdao,2100,0.7342
+Rabat,2030,0.0977
+Rabat,2050,0.2310
+Rabat,2070,0.3904
+Rabat,2100,0.6886
+Rangoon,2030,0.0870
+Rangoon,2050,0.2187
+Rangoon,2070,0.3885
+Rangoon,2100,0.7389
+Recife,2030,0.0992
+Recife,2050,0.2340
+Recife,2070,0.4050
+Recife,2100,0.7561
+Rio de Janeiro,2030,0.0983
+Rio de Janeiro,2050,0.2313
+Rio de Janeiro,2070,0.4082
+Rio de Janeiro,2100,0.7515
+Rotterdam,2030,0.0990
+Rotterdam,2050,0.2284
+Rotterdam,2070,0.3900
+Rotterdam,2100,0.6622
+Salvador,2030,0.0915
+Salvador,2050,0.2204
+Salvador,2070,0.3847
+Salvador,2100,0.7281
+San Diego,2030,0.0715
+San Diego,2050,0.1728
+San Diego,2070,0.2972
+San Diego,2100,0.5546
+San Francisco,2030,0.0745
+San Francisco,2050,0.1711
+San Francisco,2070,0.3092
+San Francisco,2100,0.5749
+San Jose,2030,0.0702
+San Jose,2050,0.1681
+San Jose,2070,0.3021
+San Jose,2100,0.5621
+San Juan,2030,0.0981
+San Juan,2050,0.2276
+San Juan,2070,0.3931
+San Juan,2100,0.7289
+Santo Domingo,2030,0.0984
+Santo Domingo,2050,0.2280
+Santo Domingo,2070,0.3917
+Santo Domingo,2100,0.7066
+Santos,2030,0.0986
+Santos,2050,0.2311
+Santos,2070,0.4083
+Santos,2100,0.7523
+Sapporo,2030,0.0992
+Sapporo,2050,0.2130
+Sapporo,2070,0.3936
+Sapporo,2100,0.7526
+Seattle,2030,0.0800
+Seattle,2050,0.1791
+Seattle,2070,0.3045
+Seattle,2100,0.5595
+Shanghai,2030,0.0853
+Shanghai,2050,0.2184
+Shanghai,2070,0.3947
+Shanghai,2100,0.7551
+Shenzhen,2030,0.0978
+Shenzhen,2050,0.2414
+Shenzhen,2070,0.4231
+Shenzhen,2100,0.7928
+Singapore,2030,0.0960
+Singapore,2050,0.2353
+Singapore,2070,0.4148
+Singapore,2100,0.7893
+St Petersburg,2030,0.0832
+St Petersburg,2050,0.1781
+St Petersburg,2070,0.3151
+St Petersburg,2100,0.5257
+Stockholm,2030,0.0395
+Stockholm,2050,0.1074
+Stockholm,2070,0.2114
+Stockholm,2100,0.3809
+Surabaya,2030,0.0968
+Surabaya,2050,0.2379
+Surabaya,2070,0.4183
+Surabaya,2100,0.8018
+Surat,2030,0.0835
+Surat,2050,0.2036
+Surat,2070,0.3673
+Surat,2100,0.6970
+Sydney,2030,0.1101
+Sydney,2050,0.2585
+Sydney,2070,0.4427
+Sydney,2100,0.8094
+Taipei,2030,0.1033
+Taipei,2050,0.2360
+Taipei,2070,0.4213
+Taipei,2100,0.7883
+Tampa,2030,0.1199
+Tampa,2050,0.2615
+Tampa,2070,0.4297
+Tampa,2100,0.7520
+Tel Aviv,2030,0.0900
+Tel Aviv,2050,0.2190
+Tel Aviv,2070,0.3779
+Tel Aviv,2100,0.6904
+Tianjin,2030,0.0869
+Tianjin,2050,0.2135
+Tianjin,2070,0.3878
+Tianjin,2100,0.7268
+Tokyo,2030,0.1042
+Tokyo,2050,0.2578
+Tokyo,2070,0.4470
+Tokyo,2100,0.8446
+Tripoli,2030,0.0875
+Tripoli,2050,0.2102
+Tripoli,2070,0.3598
+Tripoli,2100,0.6602
+Ujung Padang,2030,0.1011
+Ujung Padang,2050,0.2482
+Ujung Padang,2070,0.4364
+Ujung Padang,2100,0.8215
+Ulsan,2030,0.0860
+Ulsan,2050,0.2269
+Ulsan,2070,0.4021
+Ulsan,2100,0.7658
+Vancouver,2030,0.0797
+Vancouver,2050,0.1780
+Vancouver,2070,0.3039
+Vancouver,2100,0.5593
+Virginia Beach,2030,0.1409
+Virginia Beach,2050,0.3070
+Virginia Beach,2070,0.5050
+Virginia Beach,2100,0.8572
+Visakhapatnam,2030,0.0855
+Visakhapatnam,2050,0.2150
+Visakhapatnam,2070,0.3821
+Visakhapatnam,2100,0.7307
+Washington DC,2030,0.1379
+Washington DC,2050,0.3036
+Washington DC,2070,0.4945
+Washington DC,2100,0.8361
+Wenzhou,2030,0.0936
+Wenzhou,2050,0.2269
+Wenzhou,2070,0.4021
+Wenzhou,2100,0.7673
+Xiamen,2030,0.0940
+Xiamen,2050,0.2273
+Xiamen,2070,0.4034
+Xiamen,2100,0.7648
+Yantai,2030,0.0940
+Yantai,2050,0.2360
+Yantai,2070,0.4211
+Yantai,2100,0.7923
