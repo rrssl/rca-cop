@@ -1,0 +1,8 @@
+global:
+  data_dir: ../data
+
+demo:
+  opentopo_api_key: 9332bfd8ec26ab8128ecda6709dc1c38
+  topo_cache_subdir: .bmi_topography
+  slr_file: mean_modelled_slr.csv
+  damage_file: mean_damages_rcp85.csv

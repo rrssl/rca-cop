@@ -5,9 +5,14 @@ channels:
 dependencies:
   - python=3.10
   - geopandas
+  - geopy
   - ipywidgets
   - jupyterlab
   - pandas
-  - geopy
+  - pip
+  - pyyaml
+  - rasterio
   - voila
-prefix: /home/rroussel/miniconda3/envs/cop
+  - pip:
+    - bmi-topography
+prefix: /home/robin/miniconda3/envs/cop
