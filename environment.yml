@@ -12,6 +12,8 @@ dependencies:
   - pip
   - pyyaml
   - rasterio
+  - requests
+  - scikit-image
   - voila
   - pip:
     - bmi-topography
