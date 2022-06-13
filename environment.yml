@@ -14,6 +14,7 @@ dependencies:
   - rasterio
   - requests
   - scikit-image
+  - tqdm
   - voila
   - pip:
     - bmi-topography
