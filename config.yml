@@ -6,3 +6,5 @@ demo:
   topo_cache_subdir: .bmi_topography
   slr_file: mean_modelled_slr.csv
   damage_file: mean_damages_rcp85.csv
+  co2_file: share_of_cumulative_co2.csv
+  annex1_file: annex1.txt
